@@ -15,7 +15,7 @@ body {
     display: flex;
     align-content: center;
 }
-.ruta1 {
+.box1 {
     display: flex;
     align-items: center;
     margin-left: 50px;
@@ -28,12 +28,12 @@ body {
     background-color: gold;
     object-fit: fill;
 }
-#ruta1 {
+#box1 {
     width: 200px;
     height: 200px;
     object-fit: fill;
 }
-#ruta2 {
+#box2 {
     display: flex;
     align-items: center;
     text-align: center;
@@ -46,7 +46,7 @@ body {
     margin-top: 50px;
     background-color: gold;
 }
-.ruta3 {
+.box3 {
     display: flex;
     align-items: center;
     text-align: center;
@@ -60,12 +60,12 @@ body {
     background-color: gold;
     margin-right: 50px;
 }
-#ruta3 {
+#box3 {
     width: 200px;
     height: 200px;
     object-fit: fill;
 }
-#ruta4 {
+#box4 {
     display: flex;
     align-items: center;
     text-align: center;
@@ -79,7 +79,7 @@ body {
     background-color: gold;
     margin-right: 50px;
 }
-#ruta5 {
+#box5 {
     display: flex;
     align-items: center;
     text-align: center;
@@ -93,7 +93,7 @@ body {
     background-color: gold;
     margin-right: 50px;
 }
-#ruta6 {
+#box6 {
     display: flex;
     align-items: center;
     word-break:inherit;
@@ -119,7 +119,7 @@ body {
     background-color: gold;
     margin: 0%;
 }
-#OmMig {
+#Name {
     display: flex;
     font-size: large;
     justify-content: center;
@@ -128,12 +128,12 @@ body {
     display: flex;
     justify-content: center;
 }
-#kontaktInfo{
+#ContactInfo{
     display: flex;
     justify-content: center;
     text-align: center;
 }
-#iconer{
+#icons{
     display: flex;
     justify-content: center;
     justify-content: space-around;
