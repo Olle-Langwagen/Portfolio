@@ -1,0 +1,141 @@
+body {
+    background-color: darkslategray;
+    margin: 0%;
+    height: 100%;
+    overflow: hidden;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    font-size: medium;
+  }
+.main{
+    display: flex;
+    align-content: center;
+}
+.main2{
+    display: flex;
+    align-content: center;
+}
+.ruta1 {
+    display: flex;
+    align-items: center;
+    margin-left: 50px;
+    width: 200px;
+    height: 100px;
+    border: 15px;
+    padding: 50px;
+    border-radius: 20px;
+    margin-top: 50px;
+    background-color: gold;
+    object-fit: fill;
+}
+#ruta1 {
+    width: 200px;
+    height: 200px;
+    object-fit: fill;
+}
+#ruta2 {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin-left: 50px;
+    width: 200px;
+    height: 100px;
+    border: 15px;
+    padding: 50px;
+    border-radius: 20px;
+    margin-top: 50px;
+    background-color: gold;
+}
+.ruta3 {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin-left: 50px;
+    width: 200px;
+    height: 100px;
+    border: 15px;
+    padding: 50px;
+    border-radius: 20px;
+    margin-top: 50px;
+    background-color: gold;
+    margin-right: 50px;
+}
+#ruta3 {
+    width: 200px;
+    height: 200px;
+    object-fit: fill;
+}
+#ruta4 {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin-left: 50px;
+    width: 200px;
+    height: 100px;
+    border: 15px;
+    padding: 50px;
+    border-radius: 20px;
+    margin-top: -700px;
+    background-color: gold;
+    margin-right: 50px;
+}
+#ruta5 {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin-left: 50px;
+    width: 200px;
+    height: 100px;
+    border: 15px;
+    padding: 50px;
+    border-radius: 20px;
+    margin-top: -700px;
+    background-color: gold;
+    margin-right: 50px;
+}
+#ruta6 {
+    display: flex;
+    align-items: center;
+    word-break:inherit;
+    text-align: center;
+    margin-left: 50px;
+    width: 200px;
+    height: 100px;
+    border: 15px;
+    padding: 50px;
+    border-radius: 20px;
+    margin-top: -700px;
+    background-color: gold;
+    margin-right: 50px;
+}
+#leftBox {
+    height: 1024px;
+    background-color: gold;
+    margin: 0%;
+}
+/*Using second leftbox to create distance between boxes*/
+#leftBox2 {
+    width: 258px;
+    background-color: gold;
+    margin: 0%;
+}
+#OmMig {
+    display: flex;
+    font-size: large;
+    justify-content: center;
+}
+#NavBar{
+    display: flex;
+    justify-content: center;
+}
+#kontaktInfo{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+#iconer{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    flex-direction: row;
+}

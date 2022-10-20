@@ -1,0 +1,38 @@
+body {
+    background-color: darkslategray;
+    margin: 0%;
+    height: 100%;
+    overflow: hidden;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    font-size: medium;
+  }
+.main{
+    display: flex;
+    justify-content:center;
+}
+#aboutMe{
+    display: flex;
+    justify-content: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    font-size: 50px;
+    text-align: center;
+}
+.infobox{
+    display: flex;
+    justify-content: center;
+    width: 500px;
+}
+#info {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+#NavBar{
+    display: flex;
+    justify-content: center;
+}
+#links{
+    color: black;
+}
